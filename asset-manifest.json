@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/github.io/remote-jobs/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/github.io/remote-jobs/static/js/main.17cf04a1.chunk.js",
-    "main.js.map": "/github.io/remote-jobs/static/js/main.17cf04a1.chunk.js.map",
-    "runtime-main.js": "/github.io/remote-jobs/static/js/runtime-main.dc014b76.js",
-    "runtime-main.js.map": "/github.io/remote-jobs/static/js/runtime-main.dc014b76.js.map",
-    "static/js/2.196556ba.chunk.js": "/github.io/remote-jobs/static/js/2.196556ba.chunk.js",
-    "static/js/2.196556ba.chunk.js.map": "/github.io/remote-jobs/static/js/2.196556ba.chunk.js.map",
-    "static/js/3.6f3fcde8.chunk.js": "/github.io/remote-jobs/static/js/3.6f3fcde8.chunk.js",
-    "static/js/3.6f3fcde8.chunk.js.map": "/github.io/remote-jobs/static/js/3.6f3fcde8.chunk.js.map",
-    "index.html": "/github.io/remote-jobs/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/github.io/remote-jobs/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.196556ba.chunk.js.LICENSE.txt": "/github.io/remote-jobs/static/js/2.196556ba.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/github.io/remote-jobs/static/media/logo.6ce24c58.svg"
+    "main.css": "/remote-jobs/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/remote-jobs/static/js/main.17cf04a1.chunk.js",
+    "main.js.map": "/remote-jobs/static/js/main.17cf04a1.chunk.js.map",
+    "runtime-main.js": "/remote-jobs/static/js/runtime-main.8edc5c68.js",
+    "runtime-main.js.map": "/remote-jobs/static/js/runtime-main.8edc5c68.js.map",
+    "static/js/2.196556ba.chunk.js": "/remote-jobs/static/js/2.196556ba.chunk.js",
+    "static/js/2.196556ba.chunk.js.map": "/remote-jobs/static/js/2.196556ba.chunk.js.map",
+    "static/js/3.6f3fcde8.chunk.js": "/remote-jobs/static/js/3.6f3fcde8.chunk.js",
+    "static/js/3.6f3fcde8.chunk.js.map": "/remote-jobs/static/js/3.6f3fcde8.chunk.js.map",
+    "index.html": "/remote-jobs/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/remote-jobs/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.196556ba.chunk.js.LICENSE.txt": "/remote-jobs/static/js/2.196556ba.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/remote-jobs/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc014b76.js",
+    "static/js/runtime-main.8edc5c68.js",
     "static/js/2.196556ba.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.17cf04a1.chunk.js"
