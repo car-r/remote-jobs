@@ -6,12 +6,12 @@ export const JobCard = styled.div`
     background: #fff;
     padding: 1.5em;
     border-radius: 1em;
-    width: 24rem;
+    width: 380px;
     margin: 0 auto;
 `
 
 export const JobTitle = styled.p`
-    font-size: 1.5rem;
+    font-size: 1.35rem;
     font-weight: bold;
     margin-bottom: .5em;
 `

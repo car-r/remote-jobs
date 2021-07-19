@@ -7,4 +7,5 @@ export const HeaderContainer = styled.header`
 
 export const HeaderH1 = styled.h1`
     font-size: 2rem;
+    margin: 0 auto;
 `

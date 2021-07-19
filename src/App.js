@@ -21,7 +21,7 @@ function App() {
   }, [])
 
   return (
-    <div>
+    <div className="App">
       <Header />
       <CardList jobs={jobs}/>
     </div>
