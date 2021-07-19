@@ -6,7 +6,7 @@ export const JobCard = styled.div`
     background: #fff;
     padding: 1.5em;
     border-radius: 1em;
-    width: 28rem;
+    width: 24rem;
     margin: 0 auto;
 `
 
