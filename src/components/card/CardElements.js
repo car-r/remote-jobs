@@ -6,47 +6,42 @@ export const JobCard = styled.div`
     background: #fff;
     padding: 1.5em;
     border-radius: 1em;
-    width: 380px;
+    width: 350px;
     margin: 0 auto;
+
+    @media screen and (max-width: 450px) {
+        width: 300px;
+        margin: 0 auto;
+    }
 `
 
 export const JobTitle = styled.p`
     font-size: 1.35rem;
     font-weight: bold;
-    margin-bottom: .5em;
+    margin-bottom: .75em;
+
+    @media screen and (max-width: 450px) {
+        font-size: 1.2rem;
+    }
 `
 
 export const CompanyContainer = styled.div`
     display: flex;
+    flex-direction: column;
     margin-bottom: 1.75em;
-    align-items: center;
-
 `
 
-export const CompanyText = styled.p`
-    margin: 0;
-    padding-right: 0.5em;
-`
-
-export const CompanySpan = styled.span`
-    padding-right: 0.25em;
-    padding-left: 0.5em;
-    font-weight: 400;
-    font-size: 1rem;
-    margin: 0;
-`
 
 export const JobCompany = styled.p`
     font-weight: bold;
-    margin-bottom: 1em;
     margin: 0;
-    padding-right: 0.5em;
-    
+    margin-bottom: 0.35em;
 `
 
 export const JobLocation = styled.p`
     margin-bottom: 1em;
     margin: 0;
+    font-size: 0.9rem;
 `
 
 export const JobStatsContainer = styled.div`
@@ -68,6 +63,11 @@ export const JobStatsType = styled.p`
     grid-area: type;
     margin-bottom: .5em;
     text-transform: uppercase;
+
+    @media screen and (max-width: 450px) {
+        font-size: 0.8rem;
+    }
+
 `
 
 export const JobType = styled.p`
@@ -75,6 +75,10 @@ export const JobType = styled.p`
     grid-area: type-data;
     font-size: 1.1rem;
     text-transform: capitalize;
+
+    @media screen and (max-width: 450px) {
+        font-size: 1rem;
+    }
 `
 
 export const JobStatsSalary = styled.p`
@@ -82,12 +86,20 @@ export const JobStatsSalary = styled.p`
     grid-area: salary;
     margin-bottom: .5em;
     text-transform: uppercase;
+
+    @media screen and (max-width: 450px) {
+        font-size: 0.8rem;
+    }
 `
 
 export const JobSalary = styled.p`
     font-weight: bold;
     grid-area: salary-data;
     font-size: 1.1rem;
+
+    @media screen and (max-width: 450px) {
+        font-size: 1rem;
+    }
 `
 
 

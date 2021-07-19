@@ -1,12 +1,12 @@
 import React from 'react'
-import { CompanyContainer, CompanySpan, JobCard, JobCompany, JobLocation, JobSalary, JobStatsContainer, JobStatsGrid, JobStatsSalary, JobStatsType, JobTitle, JobType } from './CardElements'
+import { CompanyContainer, JobCard, JobCompany, JobLocation, JobSalary, JobStatsContainer, JobStatsGrid, JobStatsSalary, JobStatsType, JobTitle, JobType } from './CardElements'
 
 const Card = ({job}) => {
     return (
         <JobCard>
             <JobTitle>{job.title}</JobTitle>
                 <CompanyContainer>
-                    <JobCompany>{job.company_name} <CompanySpan>-</CompanySpan></JobCompany>
+                    <JobCompany>{job.company_name} </JobCompany>
                     
                     {job.candidate_required_location.length > 1 ? (
                         <JobLocation>{job.candidate_required_location}</JobLocation>
