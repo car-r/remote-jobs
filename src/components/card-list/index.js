@@ -6,7 +6,7 @@ const CardList = ({jobs}) => {
     return (
         <CardGrid>
             {jobs.map(job => (
-                <Card job={job}/>
+                <Card job={job} key={job.id}/>
             ))}
         </CardGrid>
     )

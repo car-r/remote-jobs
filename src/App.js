@@ -11,7 +11,7 @@ function App() {
     // fetch jobs from Remotive API with async await syntax and axios
     const fetchJobs = async () => {
       const result = await axios(
-        'https://remotive.io/api/remote-jobs?limit=10'
+        'https://remotive.io/api/remote-jobs?limit=20'
       )
       console.log(result.data.jobs)
       setJobs(result.data.jobs)
