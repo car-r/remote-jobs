@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/remote-jobs/static/css/main.344b8e0d.chunk.css",
-    "main.js": "/remote-jobs/static/js/main.76dff370.chunk.js",
-    "main.js.map": "/remote-jobs/static/js/main.76dff370.chunk.js.map",
+    "main.js": "/remote-jobs/static/js/main.563c132c.chunk.js",
+    "main.js.map": "/remote-jobs/static/js/main.563c132c.chunk.js.map",
     "runtime-main.js": "/remote-jobs/static/js/runtime-main.4777628e.js",
     "runtime-main.js.map": "/remote-jobs/static/js/runtime-main.4777628e.js.map",
     "static/js/2.53d208cc.chunk.js": "/remote-jobs/static/js/2.53d208cc.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4777628e.js",
     "static/js/2.53d208cc.chunk.js",
     "static/css/main.344b8e0d.chunk.css",
-    "static/js/main.76dff370.chunk.js"
+    "static/js/main.563c132c.chunk.js"
   ]
 }
