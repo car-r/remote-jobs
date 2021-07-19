@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/remote-jobs/static/css/main.3a2a3a2d.chunk.css",
-    "main.js": "/remote-jobs/static/js/main.c8899bd4.chunk.js",
-    "main.js.map": "/remote-jobs/static/js/main.c8899bd4.chunk.js.map",
+    "main.js": "/remote-jobs/static/js/main.73636026.chunk.js",
+    "main.js.map": "/remote-jobs/static/js/main.73636026.chunk.js.map",
     "runtime-main.js": "/remote-jobs/static/js/runtime-main.4777628e.js",
     "runtime-main.js.map": "/remote-jobs/static/js/runtime-main.4777628e.js.map",
-    "static/js/2.b8d98a70.chunk.js": "/remote-jobs/static/js/2.b8d98a70.chunk.js",
-    "static/js/2.b8d98a70.chunk.js.map": "/remote-jobs/static/js/2.b8d98a70.chunk.js.map",
+    "static/js/2.53d208cc.chunk.js": "/remote-jobs/static/js/2.53d208cc.chunk.js",
+    "static/js/2.53d208cc.chunk.js.map": "/remote-jobs/static/js/2.53d208cc.chunk.js.map",
     "static/js/3.72185fdf.chunk.js": "/remote-jobs/static/js/3.72185fdf.chunk.js",
     "static/js/3.72185fdf.chunk.js.map": "/remote-jobs/static/js/3.72185fdf.chunk.js.map",
     "index.html": "/remote-jobs/index.html",
     "static/css/main.3a2a3a2d.chunk.css.map": "/remote-jobs/static/css/main.3a2a3a2d.chunk.css.map",
-    "static/js/2.b8d98a70.chunk.js.LICENSE.txt": "/remote-jobs/static/js/2.b8d98a70.chunk.js.LICENSE.txt"
+    "static/js/2.53d208cc.chunk.js.LICENSE.txt": "/remote-jobs/static/js/2.53d208cc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4777628e.js",
-    "static/js/2.b8d98a70.chunk.js",
+    "static/js/2.53d208cc.chunk.js",
     "static/css/main.3a2a3a2d.chunk.css",
-    "static/js/main.c8899bd4.chunk.js"
+    "static/js/main.73636026.chunk.js"
   ]
 }
