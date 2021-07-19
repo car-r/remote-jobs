@@ -6,8 +6,5 @@ export const CardGrid = styled.div`
     grid-gap: 1.5em;
     padding-top: 1.5em;
     width: auto;
-    border: 1px solid black;
     margin: 0;
-    padding-left: 0;
-    padding-right: 0;
 `
