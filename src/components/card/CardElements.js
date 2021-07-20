@@ -21,7 +21,7 @@ export const JobTitle = styled.p`
     margin-bottom: .75em;
 
     @media screen and (max-width: 450px) {
-        font-size: 1.2rem;
+        font-size: 1.3rem;
     }
 `
 
