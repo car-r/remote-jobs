@@ -15,4 +15,9 @@ export const SearchBoxInput = styled.input`
     border-radius: 1em;
     border: none;
     background: #fff;
+
+    @media screen and (min-width: 500px) {
+        font-size: 1rem;
+        width: 350px;
+    }
 `
